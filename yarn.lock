@@ -1121,10 +1121,10 @@
     human-id "^1.0.2"
     prettier "^1.18.2"
 
-"@d4kmor/cli@^0.8.0":
-  version "0.8.0"
-  resolved "https://registry.yarnpkg.com/@d4kmor/cli/-/cli-0.8.0.tgz#9e5a9e375b1c8185447a2e5414ff44f9301a1a5c"
-  integrity sha512-LCyaO73PDArcvMmPhpEeeBP50UqKPugr/J0Uirr/MW+yxbH81MyE8osJJ5Oc5aABQ5vc4pKe8YUZUW734IcVHA==
+"@d4kmor/cli@^0.9.0":
+  version "0.9.0"
+  resolved "https://registry.yarnpkg.com/@d4kmor/cli/-/cli-0.9.0.tgz#33b9a5f8f0be4ac41a3dd566b046fe8e1f8e5f4e"
+  integrity sha512-EqqjtUTov8ejXB5FLXfxWvFAQbs9hYKhURm5eMTpn0BXWRfIk30owHEbS0MrkfCKhzGbRjq1CCVDX13lCY0Qpg==
   dependencies:
     "@11ty/eleventy" "^0.11.1"
     "@babel/core" "^7.12.3"
